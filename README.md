@@ -42,5 +42,16 @@
 
 ---
 
+### 🤖 AI Tools & Coding Assistants:
+
+![ChatGPT](https://img.shields.io/badge/CHATGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/GOOGLE_GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Cursor](https://img.shields.io/badge/CURSOR-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Lovable](https://img.shields.io/badge/LOVABLE-FF0055?style=for-the-badge&logo=heart&logoColor=white)
+
+---
+
 ### 📊 GitHub Stats:
 
+![Divina's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbalana07-bot&show_icons=true&theme=dark)
