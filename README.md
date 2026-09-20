@@ -52,6 +52,4 @@
 
 ---
 
-### 📊 GitHub Stats:
 
-![Divina's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbalana07-bot&show_icons=true&theme=dark)
